@@ -7,8 +7,8 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const int splitstatus        = 1;        /* 1 for split status items */
 static const char *splitdelim        = ";";       /* Character used for separating status */
-static const char *fonts[]          = {"DejaVu Sans Mono:size=10", "Noto Sans Arabic UI:size=10", "Font Awesome 5 Free:size=10", "Font Awesome 5 Brands:size=10"};
-static const char dmenufont[]       = "Noto Sans:size=10";
+static const char *fonts[]          = {"JetBrains Mono:size=10", "Cairo:size=10", "Font Awesome 5 Free:size=10", "Font Awesome 5 Brands:size=10"};
+static const char dmenufont[]       = "JetBrains Mono:size=10";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
